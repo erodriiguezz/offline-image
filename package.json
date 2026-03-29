@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.22.1",
     "glob": "^7.1.4",
     "minimist": "^1.2.5",
     "mlab": "^1.0.30-beta",
